@@ -13,12 +13,12 @@
 
 
 ```
-#include <iostream>
+#include <bits/stdc++.h> //this header file includes everything 
 using namespace std;
 
 // main() is where program execution begins.
 int main() {
-    cout << "Hello World"; // prints Hello World
+    cout << "Hello World"<<endl; // prints Hello World
     return 0;
 }
 ```
@@ -128,7 +128,7 @@ return_type function_name( parameter list ) {
 > 
 
 ```
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
 int main () {
     int var1;
@@ -210,7 +210,7 @@ Box Box2; // Declare Box2 of type Box
 > 
 
 ```
-#include <iostream>
+#include <bits/stdc++.h>
 using namespace std;
 
 class Box {
