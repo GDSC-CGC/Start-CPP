@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    cout << "Hello! Google Developers Club."; //using cout to print
+    cout << "Hello! Google Developers Club.";
     
     return 0;
 }
